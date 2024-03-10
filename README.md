@@ -1,1 +1,1 @@
-IPYNB renderer package.
+This is IPYNB readme file.
